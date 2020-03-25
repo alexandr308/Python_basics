@@ -1,3 +1,3 @@
 Python programming basics course solutions - https://www.coursera.org/learn/python-osnovy-programmirovaniya/home/welcome
 
-Certificate - https://coursera.org/share/9dde70cacb29edac8f483161688445f6
+Certificate - https://www.coursera.org/account/accomplishments/certificate/VCJRZ6XLQ7D8
